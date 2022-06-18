@@ -6,17 +6,17 @@
 ---
 ## 测试流程
  执行命令：   
-	$ scratchip create (项目名)   
+	`$ scratchip create (项目名)   
  创建新的项目   
  
  将文件置于对应子目录下   
  执行命令：   
-	$ make verilog   
+	`$ make verilog   
  对应的.v文件将在builds文件夹中产生   
  
  进入builds目录,执行命令：   
-	$ iverilog -f sim.f   
-	./a.out   
+	`$ iverilog -f sim.f   
+	`./a.out   
  执行命令查看波形：   
 	$ gtkwave wave.vd
 
