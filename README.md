@@ -16,9 +16,9 @@
  
  进入builds目录,执行命令：   
 	`$ iverilog -f sim.f`   
-	`./a.out`   
+	`$ ./a.out`   
  执行命令查看波形：   
-	$ gtkwave wave.vd
+	`$ gtkwave wave.vcd`   
 
 ---
 ## 组件
