@@ -1,0 +1,12 @@
+{
+    "value": [
+        "qref:56501475:/home/ksk/MIPS_chisel/.scratchip/.cache/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-plugin_2.13.8/3.5.1/chisel3-plugin_2.13.8-3.5.1.jar",
+        "qref:a8218d13:/home/ksk/MIPS_chisel/.scratchip/.cache/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar",
+        "qref:a837a412:/home/ksk/MIPS_chisel/.scratchip/.cache/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.8/scala-library-2.13.8.jar",
+        "qref:410aba37:/home/ksk/MIPS_chisel/.scratchip/.cache/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar",
+        "qref:6f32a410:/home/ksk/MIPS_chisel/.scratchip/.cache/https/repo1.maven.org/maven2/org/jline/jline/3.21.0/jline-3.21.0.jar",
+        "qref:75b995e8:/home/ksk/MIPS_chisel/.scratchip/.cache/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar"
+    ],
+    "valueHash": -861914679,
+    "inputsHash": 664550344
+}
