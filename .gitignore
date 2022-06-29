@@ -1,0 +1,5 @@
+.scratchip
+*.out
+builds
+hw/chisel/out
+*.vcd
