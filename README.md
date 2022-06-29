@@ -11,7 +11,7 @@
  
  执行命令：   
 	`$ make verilog`   
- 对应的.v文件将在builds文件夹中产生   
+ 产生的.v文件将输出到builds文件夹中   
  
  进入builds目录,执行命令：   
 	`$ iverilog -f sim.f`   
