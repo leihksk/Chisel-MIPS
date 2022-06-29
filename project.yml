@@ -1,0 +1,7 @@
+filelist:
+  sim:
+    files:
+      - tb/Testbench.v
+      - builds/Top.v
+      - rtl/Imem.v
+      - rtl/Dmem.v
