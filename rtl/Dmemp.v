@@ -9,7 +9,7 @@ reg [31:0] RAM[63:0];
 
 initial
 begin
-	$readmemh("memfile.dat",RAM);
+	$readmemh("sw/memfile.dat",RAM);
 end
 
 assign rd = RAM[a[31:2]];
