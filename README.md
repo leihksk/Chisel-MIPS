@@ -1,4 +1,4 @@
-# Chisel实现单周期MIPS流水线处理器
+# Chisel实现MIPS流水线处理器
 ---
 本项目实现的MIPS指令与组件功能参看 [MIPS_test](https://github.com/leihksk/MIPS_test)
 
@@ -20,6 +20,17 @@
 	`$ gtkwave wave.vcd`   
 
 ---
+
+## directory hierarchy
+.
+├── hw		# hardware files
+│   └── chisel	# chisel related files
+│       └── src	# source files by chisel
+├── rtl		# HDL files
+├── sw		# software files
+└── tb		# testbench
+
+
 ## 组件
 
 ### testbench.v
