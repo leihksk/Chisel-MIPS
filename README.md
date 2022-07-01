@@ -16,14 +16,15 @@
 ---
 
 ## directory hierarchy
+```
 .   
-├── hw         # hardware files   
-│    └── chisel       # chisel related files   
-│         └── src    # source files by chisel   
-├── rtl        # HDL files   
-├── sw         # software files   
-└── tb         # testbench files   
-
+├── hw			# hardware files   
+│   └── chisel		# chisel related files   
+│       └── src		# source files by chisel   
+├── rtl			# HDL files   
+├── sw			# software files   
+└── tb			# testbench files   
+```
 
 ## 组件
 
