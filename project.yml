@@ -4,4 +4,4 @@ filelist:
       - tb/Testbench.v
       - builds/Top.v
       - rtl/Imem.v
-      - rtl/Dmem.v
+      - rtl/Dmemp.v

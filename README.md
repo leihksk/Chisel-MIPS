@@ -6,29 +6,23 @@
 ---
 ## 测试流程
  执行命令：   
-	`$ scratchip init`   
- 初始化项目文件夹   
+	`$ make sim.f`  
+ 执行仿真   
+ 执行`finish`退出仿真  
  
- 执行命令：   
-	`$ make verilog`   
- 产生的.v文件将输出到builds文件夹中   
- 
- 进入builds目录,执行命令：   
-	`$ iverilog -f sim.f`   
-	`$ ./a.out`   
  执行命令以查看波形：   
 	`$ gtkwave wave.vcd`   
 
 ---
 
 ## directory hierarchy
-.
-├── hw		# hardware files   
-│   └── chisel	# chisel related files   
-│       └── src	# source files by chisel   
-├── rtl		# HDL files   
-├── sw		# software files   
-└── tb		# testbench files   
+.   
+├── hw			# hardware files   
+│   └── chisel		# chisel related files   
+│       └── src		# source files by chisel   
+├── rtl			# HDL files   
+├── sw			# software files   
+└── tb			# testbench files   
 
 
 ## 组件
