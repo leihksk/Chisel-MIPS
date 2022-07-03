@@ -6,7 +6,7 @@
 ---
 ## 测试流程
  执行命令：   
-	`$ make sim.f`  
+	`$ make sim`  
  执行仿真   
  执行`finish`退出仿真  
  

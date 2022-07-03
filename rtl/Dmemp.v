@@ -5,7 +5,7 @@ module Dmemp(
   input  [31:0] wd,
   output [31:0] rd
 );
-reg [31:0] RAM[63:0];
+reg [31:0] RAM[3:20];
 
 initial
 begin
